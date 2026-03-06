@@ -31,7 +31,7 @@
   <p align="center">
     <img src="https://img.shields.io/badge/WorldQuant_Alphas-191919?style=for-the-badge&logo=quantconnect&logoColor=white" alt="WorldQuant Alphas" />
     <img src="https://img.shields.io/badge/Camo-005FF9?style=for-the-badge" alt="Camo" />
-    <img src="https://img.shields.io/badge/IBM_Amos-0530AD?style=for-the-badge&logo=ibm&logoColor=white" alt="Amos" />
+    <img src="https://img.shields.io/badge/Swiss_AviationSoftware-AMOS-E3000F?style=for-the-badge" alt="AMOS" />
   </p>
 
 </div>
